@@ -12,7 +12,7 @@ SECRET_KEY = 'django-insecure-0ip4kh^54ff3whazp12^41q=k%(jflnwl)3kvq0-1x!d-**=zv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["senseistrategypayment.com", "www.senseistrategypayment.com"]
+ALLOWED_HOSTS = ["185.205.209.130","senseistrategypayment.com", "www.senseistrategypayment.com"]
 
 # Application definition
 
