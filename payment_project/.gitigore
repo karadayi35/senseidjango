@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+__pycache__/
+*.so
+
+# Logs
+*.log
+*.out
+*.pid
+
+# Local environment files
+.env
+*.sqlite3
+
+# Media files
+/media/
+
+# Static files
+/staticfiles/
+/static/
+
+# Django stuff
+db.sqlite3
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Node modules (React veya frontend projeleri için)
+node_modules/
