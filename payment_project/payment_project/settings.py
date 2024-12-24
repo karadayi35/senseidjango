@@ -102,10 +102,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-# Static files için
-STATICFILES_DIRS = [
-    BASE_DIR / "payment_app/static",  # veya uygun bir yol
-]
 
 STATIC_ROOT = BASE_DIR / 'static/'
 STATIC_URL = '/static/'
